@@ -7,7 +7,7 @@ var myQuestions = [
   {
     q: "What does arr.push() do?",
     choices: [
-      "Adds item to last array",
+      "Adds item to end of array",
       "Removes last item to array",
       "Adds item to the beginning of an array",
       "Removes the first item of an array]",
